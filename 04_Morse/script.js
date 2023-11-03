@@ -19,6 +19,7 @@ console.log(latinCharacters(getLatinCharacterList("Hello world")));
 // console.log(getLatinCharacterList("Hello world"))
 
 //Etape 2
+//Etape 3
 
 const latinToMorse = {
     'A': '.-',
