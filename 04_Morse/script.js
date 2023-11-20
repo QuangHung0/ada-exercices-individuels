@@ -19,6 +19,11 @@ console.log(latinCharacters(getLatinCharacterList("Hello world")));
 // console.log(getLatinCharacterList("Hello world"))
 
 //Etape 2
+
+// function translateLatinCharacter(char) {
+//     return latinToMorse(char)
+// }
+
 //Etape 3
 
 const latinToMorse = {
